@@ -1,0 +1,2 @@
+# Electronic-voting-Machine-using-open-CV-Technology
+In these project we will authenticate a user using Face recognition and finger print using open CV technology.first we will train the face of voters and recognize with live camera and for two step authentication we will check biometric recognition using image of the finger print.If it is matched we allow to vote or otherwise it give fraud alert.It is pratically implemented in Raspberry pi controller.
